@@ -5,7 +5,7 @@ body {
 }
 .main {
   margin-top: 100px;
-  width: 40svw;
+  width: 40vw;
   background: rgb(211, 210, 208);
   display: flex;
   flex-direction: column;
